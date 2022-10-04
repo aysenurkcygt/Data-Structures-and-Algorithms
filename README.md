@@ -41,5 +41,19 @@ A.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 B.Big-O gösterimini yazınız.
 O[nLogn]
 
-www.patika.dev 
+# BINARY SEARCH TREE PROJECT
+
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Root=7
+5 değeri roottan küçüktür bu nedenle sol tarafa yazılır.
+1 değeri roottan küçüktür bu nedenle sola yazılır, 5'ten de küçük olduğu için 5'in soluna yazılır.
+8 değeri roottan büyük olduğu için root'un sağ tarafına yazılır.
+3 değeri roottan küçüktür, 5'ten de küçüktür ama 1'den büyüktür, bu nedenle 1'in sağ tarafına yazılır.
+6 değeri roottan küçüktür, 5'ten de büyük olduğu için 5'in sağına yazılır.
+0 değeri 7,5 ve 1'den küçüktür, bu nedenle 0'ın soluna yazılır.
+9 değeri roottan ve 8'den büyüktür, bu nedenle 8'in sağına yazılır.
+4 değeri roottan ve 5'den küçüktür, 1'den ve 3'ten büyük olduğu için de 3'ün sağına yazılır.
+2 değeri 7'den de 5'den de küçüktür, 1'den büyüktür ama 3'den küçüktür, bu yüzden 3'ün soluna yazılır.
+
+https://app.patika.dev/aysnrays
 
