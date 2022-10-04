@@ -1,4 +1,4 @@
-# Veri-Yapilari ve Algoritmalar
+# Veri Yapilari ve Algoritmalar
 
 INSERTION SORT PROJESİ
 
